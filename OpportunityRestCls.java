@@ -5,7 +5,7 @@ Created Date: 30/10/2020
 
 */
 
-public class CW_OpportunityRestCls {
+public class OpportunityRestCls {
    
     @AuraEnabled public static ORG_Integration_Settings__c config {get;set;}
     @AuraEnabled public static Stage_Integration_Setting__c sist {get;set;}
